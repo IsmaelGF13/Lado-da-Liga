@@ -1,0 +1,23 @@
+body {
+    background-color:rgba(255, 234, 0, 0.311);
+    
+    
+}
+
+p {text-indent:40pt;
+color: rgba(0, 0, 0, 0.985);
+font-size: 20px;
+
+}
+
+h1{font-style: italic;
+text-align: center;
+text-indent: 40pt;
+text-decoration: underline;
+background-color: blue;
+font-size: 40pt;
+}
+#duas {color: brown;}
+li { color: rgb(184, 11, 11);}
+
+ul{font-style: italic;}
